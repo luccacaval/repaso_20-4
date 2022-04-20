@@ -1,0 +1,9 @@
+.prueba {
+  color: red;
+  font-size: 25px;
+  border-style: solid;
+  border-width: 3px;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Comic Neue', cursive;
+}
